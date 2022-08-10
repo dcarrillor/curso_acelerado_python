@@ -3,6 +3,9 @@
 <img src="logopython.png" width="300">
 </p>
 Ejercicios realizados por sesión de clases:
-[Sesion Uno](/sesion1/README.md)
-[Ejercicios] (Sesion1)
+1. [Sesion Uno](/sesion1/)
+2. [Sesion Dos](/sesion2/)
+3. [Sesion Tres](/sesion3/)
+
+
 
